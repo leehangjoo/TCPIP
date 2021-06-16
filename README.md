@@ -16,6 +16,7 @@ server.c는 서버의 역할을 하고 client.c 를 통해 접속하는 방식�
 <img width="" height="" src="./실행화면.png"></img>
 
 ## 두번째. 교수님 코드를 활용한 DB 추가 채팅 출력 프로그램
-
+<img width="" height="" src="./실행화면2.png"></img>
 
 ## 세번째, GUI와 DB를 추가시킨 다중 접속 채팅 프로그램
+<img width="" height="" src="./실행화면3.png"></img>
