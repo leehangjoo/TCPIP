@@ -22,4 +22,4 @@ server.c는 서버의 역할을 하고 client.c 를 통해 접속하는 방식�
 <img width="" height="" src="./실행화면3.png"></img>
 
 ## 부록 Docker 구현 : DB에 이용해보려 노력했었던 증거..
-<img width="" height="" src="./do.png"></img>
+<img width="" height="" src="./do.PNG"></img>
